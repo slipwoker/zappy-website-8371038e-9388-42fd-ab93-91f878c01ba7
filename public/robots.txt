@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://torahstream-8371038e.zappy5.app/sitemap.xml

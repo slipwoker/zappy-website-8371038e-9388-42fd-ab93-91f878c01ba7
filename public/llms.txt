@@ -1,0 +1,57 @@
+# TorahStream — Generative Engine Optimization Map
+
+> A תוכן דתי business.
+
+---
+
+## Pages
+
+### בית
+https://torahstream-8371038e.zappy5.app
+גלה שיעורי תורה בווידאו בחינם עם פלטפורמת וידאו תורנית מובילה. TorahStream מביאה לך תוכן דתי איכותי לצפייה ישירה.
+
+### שירותים
+https://torahstream-8371038e.zappy5.app/services
+גלה את מגוון שיעורי תורה בווידאו בחינם שלנו. פלטפורמת וידאו תורנית המציעה סרטוני תורה לצפייה ישירה בכל תחומי התורה.
+
+### אודות
+https://torahstream-8371038e.zappy5.app/about
+גלה את הסיפור מאחורי TorahStream, פלטפורמת וידאו תורנית המספקת שיעורי תורה בווידאו בחינם לקהל הדתי בכל העולם.
+
+### צור קשר
+https://torahstream-8371038e.zappy5.app/contact
+יש לך שאלות על שיעורי תורה בווידאו בחינם או על הפלטפורמה? צור קשר עם TorahStream והצוות שלנו ישמח לעזור.
+
+## Legal & Policy
+
+### Privacy Policy
+https://torahstream-8371038e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://torahstream-8371038e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://torahstream-8371038e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TorahStream
+TorahStream is a business in the תוכן דתי industry.
+
+## Target Audience
+קהל דתי
+
+## Industry
+תוכן דתי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://torahstream-8371038e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://torahstream-8371038e.zappy5.app/robots.txt
